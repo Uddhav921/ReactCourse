@@ -1,7 +1,7 @@
-function Uddhav(){
+function Adi(){
     return(
-        <h1>uddhav here from react</h1>
+        <h1>adi here from index.js</h1>
     )
 }
 
-export default Uddhav
+export default Adi
